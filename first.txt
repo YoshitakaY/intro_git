@@ -1,2 +1,2 @@
-1.　Gigの練習を始めます。
-2.　基本的なワークフローを学びます。
+1. git exercise
+2. learn basic workingflow
