@@ -1,2 +1,4 @@
 1. git exercise
 2. learn basic workingflow
+3. git add
+4. git commit
